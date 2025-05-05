@@ -3,7 +3,6 @@ window.addEventListener('DOMContentLoaded', init);
 
 function init() {
 
-
   const hornSelect = document.getElementById('horn-select');
   const hornImage = document.querySelector('#expose img');
   const hornSound = document.querySelector('audio');

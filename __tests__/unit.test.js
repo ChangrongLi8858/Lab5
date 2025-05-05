@@ -82,3 +82,4 @@ test('isHexColor - invalid cases', () => {
 test('isHexColor - invalid cases', () => {
   expect(isHexColor('#12345')).toBe(false); 
 });
+

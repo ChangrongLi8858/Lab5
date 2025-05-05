@@ -4,6 +4,7 @@
   "description": "Make sure you make a PR to your own repo's main and not the class' repo!! Otherwise you will lose points!!",
   "main": "index.js",
 
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ChangrongLi8858/Lab5.git"
