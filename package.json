@@ -1,0 +1,29 @@
+{
+  "name": "lab5",
+  "version": "1.0.0",
+  "description": "Make sure you make a PR to your own repo's main and not the class' repo!! Otherwise you will lose points!!",
+  "main": "index.js",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChangrongLi8858/Lab5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChangrongLi8858/Lab5/issues"
+  },
+  "homepage": "https://github.com/ChangrongLi8858/Lab5#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "type": "module",
+  "jest": {
+    "transform": {},
+    "verbose": true
+  }
+}
