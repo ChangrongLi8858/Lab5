@@ -11,3 +11,6 @@ teammates: Changrong Li & Xiuwen Zhu
 2) Would you use a unit test to test the “max message length” feature of a messaging application? Why or why not? For this question, assume the “max message length” feature prevents the user from typing more than 80 characters.                            
    yes                                           
    It is a small, logic-driven feature that is well-suited for unit testing to verify its behavior.
+
+Link to expose.html:
+Link to explore.html:
