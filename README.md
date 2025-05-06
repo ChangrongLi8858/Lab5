@@ -12,5 +12,6 @@ teammates: Changrong Li & Xiuwen Zhu
    yes                                           
    It is a small, logic-driven feature that is well-suited for unit testing to verify its behavior.
 
-Link to expose.html:
-Link to explore.html:
+## GitHub Pages Sites
+- Link to expose.html: https://lab5-lcr-zxw.github.io/Lab5/expose.html
+- Link to explore.html: https://lab5-lcr-zxw.github.io/Lab5/explore.html
